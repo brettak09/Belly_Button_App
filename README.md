@@ -13,3 +13,17 @@ Explore Plotly visualiztion tools with a dropdown contorelled dashboard.
 Based on the data provide the user can views data on each swabbed subject.  Additionally, a pie chart and bubble map are provide displaying additional data on the bacteria found in the belly button.
 
 ### Technologies Used
+
+- Python
+- Sqlite
+- Flask
+- HTML
+- JavaScript
+
+### Moduls Used
+
+- D3
+- sqlalchemy
+- Pandas 
+- Numpy
+- Bootstrap
