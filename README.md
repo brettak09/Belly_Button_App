@@ -20,7 +20,7 @@ Based on the data provide the user can view information on each swabbed subject.
 - HTML
 - JavaScript
 
-### Moduls Used
+### Modules Used
 
 - D3
 - sqlalchemy
