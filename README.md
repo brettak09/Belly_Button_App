@@ -10,7 +10,7 @@ Explore Plotly visualiztion tools with a dropdown contorelled dashboard.
 
 ### Conclusion
 
-Based on the data provide the user can views data on each swabbed subject.  Additionally, a pie chart and bubble map are provide displaying additional data on the bacteria found in the belly button.
+Based on the data provide the user can view information on each swabbed subject.  Additionally, a pie chart and bubble map are provide displaying additional details on the bacteria found from the belly button swab testing results.
 
 ### Technologies Used
 
